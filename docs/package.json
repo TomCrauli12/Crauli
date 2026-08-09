@@ -1,0 +1,14 @@
+{
+  "name": "anton-safonov-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Static portfolio built with semantic HTML, CSS, and vanilla JavaScript.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
